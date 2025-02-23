@@ -1,4 +1,4 @@
-### Hi there! 👋 I’m Leila.
+# Hi there! 👋 I’m Leila.
 I’m a software engineer in the early stages of my career with a strong interest in front-end development, though I work across the full stack when needed. I’m passionate about enhancing user experience and building impactful solutions tackle address real-world challenges.
 
 # 💻 Tech Stack:
